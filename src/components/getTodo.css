@@ -1,0 +1,40 @@
+* {
+  margin: 5px;
+  text-align: center;
+  /* justify-content: center; */
+}
+
+.user-input {
+  position: relative;
+  background: #fff;
+  margin: 2rem 20% 4rem 20%;
+  padding: 1rem;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2.5rem 5rem 0 rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  font-size: 25px;
+}
+
+.input {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+
+.input_lg {
+  width: 95%;
+  height: 25px;
+  margin: 15px;
+  padding: 0px;
+}
+
+.btn-success {
+  background-color: rgb(12, 155, 12);
+  color: antiquewhite;
+}
+
+button:hover {
+  cursor: pointer;
+}
